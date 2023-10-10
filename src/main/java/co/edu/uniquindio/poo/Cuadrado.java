@@ -9,7 +9,7 @@ public class Cuadrado extends FiguraRegular implements IfigulaGeometricaR {
 
     @Override
     public void calcularArea() {
-        
+    //cambio raro que hicimos
     }
 
     @Override
