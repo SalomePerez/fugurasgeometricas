@@ -27,10 +27,11 @@ public class Pentagono extends FiguraRegular implements IfigulaGeometricaR {
     }
 
     @Override
-    public void sumaAngulosInteriosres() {
-        
+    public float sumaAngulosInteriosres() {
+         return (5-2)*180;
+   }
         
     }
 
     
-}
+

@@ -6,7 +6,8 @@ public interface IfigulaGeometricaR {
    void calcularArea(); 
    void cacularPerimetro();
 
-   default void sumaAngulosInteriosres(){
+   default float sumaAngulosInteriosres(){
+      return 0; 
    }
 
    default void calcularLongitudApotemas(){
